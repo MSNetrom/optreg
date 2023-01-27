@@ -1,7 +1,7 @@
 # Optreg
 For visualisation of optimalisation problems
 
-Supports constraints of type constraint >= 0.
+Supports constraints of type >= 0.
 There is a lot of room for improvement on this code.
 
 # Usage
